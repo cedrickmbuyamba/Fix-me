@@ -1,0 +1,6 @@
+org/snitchers/fix_me/broker/Main.class
+org/snitchers/fix_me/broker/ConnectHandler.class
+org/snitchers/fix_me/broker/Broker.class
+org/snitchers/fix_me/broker/MessageGenerator.class
+org/snitchers/fix_me/broker/WriteHandler.class
+org/snitchers/fix_me/broker/ReadHandler.class

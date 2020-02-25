@@ -1,0 +1,8 @@
+org/snitchers/fix_me/market/MarketGenerator.class
+org/snitchers/fix_me/market/ProcessTransaction.class
+org/snitchers/fix_me/market/ConnectHandler.class
+org/snitchers/fix_me/market/ReadHandler.class
+org/snitchers/fix_me/market/Market.class
+org/snitchers/fix_me/market/MessageGenerator.class
+org/snitchers/fix_me/market/Main.class
+org/snitchers/fix_me/market/WriteHandler.class

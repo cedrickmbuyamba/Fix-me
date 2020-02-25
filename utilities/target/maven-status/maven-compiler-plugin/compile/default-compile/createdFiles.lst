@@ -1,0 +1,8 @@
+org/snitchers/fix_me/utilities/Gui.class
+org/snitchers/fix_me/utilities/DecoratedHandler.class
+org/snitchers/fix_me/utilities/Scratch.class
+org/snitchers/fix_me/utilities/GuiLogMessages.class
+org/snitchers/fix_me/utilities/Handler.class
+org/snitchers/fix_me/utilities/DB_Handler.class
+org/snitchers/fix_me/utilities/MessagePrefix.class
+org/snitchers/fix_me/utilities/MessageGenerator.class
